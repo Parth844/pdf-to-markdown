@@ -1,0 +1,15 @@
+# Python
+.env
+.venv
+__pycache__/
+
+# Backend runtime
+backend/uploads/
+backend/outputs/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
